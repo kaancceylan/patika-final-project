@@ -1,6 +1,8 @@
 # patika-final-project
 Final project for Patika DevOps Bootcamp
-----
+
+***
+
 This project is a part of the bootcamp given by Patika.dev and Airties on DevOps (AWS).
 
 **Implements:**
