@@ -2,6 +2,7 @@
 Final project for Patika DevOps Bootcamp
 ----
 This project is a part of the bootcamp given by Patika.dev and Airties on DevOps (AWS).
+
 **Implements:**
 * A VPC stack with 1 public and 1 private subnet
 * A CDN stack with an S3 bucket as origin.
