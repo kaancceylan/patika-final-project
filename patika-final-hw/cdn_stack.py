@@ -41,3 +41,6 @@ class CDNStack(Stack):
                                                                         #default behavior sets things like cache behavior, minTTL, maxTTL etc.
                                                                     )
                                                                     ])
+        CfnOutput(self, "CfnDistDomainName",
+                export_name="CfnDistDomainName",
+                value=my_cdn_dist.distribution_domain_name)
